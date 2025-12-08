@@ -39,7 +39,7 @@
 				{
 					"directoryIndex" : 0,
 					"id" : "tictacchec::@6890427a1f51a3e7e1df",
-					"jsonFile" : "target-tictacchec-Debug-21e2888afd49f61d1325.json",
+					"jsonFile" : "target-tictacchec-Debug-4c9a97d2ee7f12a941e3.json",
 					"name" : "tictacchec",
 					"projectIndex" : 0
 				}
@@ -55,6 +55,6 @@
 	"version" : 
 	{
 		"major" : 2,
-		"minor" : 7
+		"minor" : 8
 	}
 }
